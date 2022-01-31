@@ -1,0 +1,89 @@
+Day-01[31-01-2022]:
+===================
+	Good Morning to All..
+
+	https://github.com/AP-Skill-Development-Corporation/
+
+
+	Python Software Downloads:
+	==========================
+	https://python.org 
+
+	Python installation:
+	====================
+	> after downloading we need to double tap on the software
+	> It will displays the window as yes and no. we need to select yes
+	> After selecting it will displays the window with 2 options and 2 checkboxes
+	> options
+		- install now
+		- customize installation
+	> checkboxes
+		- for user permissions
+		- Add python path
+	> We need to select the "Add python path" then click on "install now"
+	> It will installs and finally it will displays as "Successfully installed" then click on finish to close the application
+
+	Python Version Check:
+	=====================
+	> After installation we need to check whether the python is installed or not by using command as
+		- python -V 
+
+	Ways to Execute a python Program:
+	=================================
+	=> Basic Procedure
+	-------------------
+		- Notepad and interpreter
+	> Open notepad and save the file in selected folder with filename.py
+	> .py is the extension for python programs
+	> After saving a file in folder then open that path location by using command prompt
+	> To execute python program we need to pass the command as 
+		- filename.py
+				or
+		- python filename.py
+
+	> Advanced Editor
+	-----------------
+	> Editors like geany,sublime,atom,notepad++,editplus etc.,
+		- font size increment or decrement.
+		- color combinations.
+		- shortcuts prefer
+		- It create the program structure. 
+
+	> IDLE
+	------ 
+	IDLE => Integrated Development Learning Environment.
+	> open idle and select on file and then select new file to create new python file
+	> after opening a file we need to save the file in selected folder here no need of saving the extension for the file because by default it will saves with .py extension
+	> After that we can execute the file by using the shortcut as "f5" or else we can click on run of file
+	> It will displays the output in shell
+
+	> Jupyter Notebook
+	-------------------
+	-> To install jupyter notebook first we need to check the pip whether it is accessing or not?
+	=> pip:
+	-------
+		> To check the pip we need to check the command in command prompt as
+			=> pip -V
+	-> Pip is used for installing third party packages
+	-> To install jupyter notebook we need to use the command as 
+		=> pip install jupyter notebook
+	-> If the pip is showing warning then we need to type the command as
+		=> python -m pip install --upgrade pip
+	> To run jupyter notebook we need to use the command as 
+		=> open cmd
+		=> jupyter notebook
+	> In jupyter notebook it consists of 2 modes
+		=> edit
+		=> command
+	> It consists of 2 formats they are
+		=> code format
+		=> markdown format
+	Shortcuts in jupyter:
+	=====================
+	- esc + m => markdown
+	- esc + y => code
+	- esc + d.d => delete a cell
+	- esc + a => insert cell above
+	- esc + b => insert cell below
+	- shift + enter => Execute cell and select below
+	- cntrl + ? => comment/uncomment
