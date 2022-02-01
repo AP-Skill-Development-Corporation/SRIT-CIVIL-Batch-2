@@ -1,0 +1,103 @@
+Day-02[01-02-2022]:
+===================
+	Good Morning to All..
+	
+	Variables:
+	==========
+		- To Store a value
+		- To Change a value
+
+	Operators:
+	==========
+		- Arithmetic operator => +,-,*,/,%,//,**
+		- Relational Operator => >,<,!=,==,>=,<=
+		- Assignment Operator => +=,-=,/=,*=,//=,%=
+		- Logical Operator => AND,OR,NOT
+		- Bitwise Operator => &,|,~,!,>>,<<
+		- Membership Operator => in,not in
+		- Identity Operator => is,is not
+
+	Data types:
+	===========
+		- int => only integer Values
+		- float => access integer and decimal Values
+		- string => enclosed with ' or "
+		- All Data Structures [list,set,tuple,dictionary]
+
+	Typecasting:
+	============
+		- To change one data type to another data type
+		- int()
+		- float()
+		- str()
+		- All Data Structures [list,set,tuple,dictionary]
+
+	Type():
+	=======
+		- To know the data type of a variable
+
+	Input Formatting:
+	=================
+		- It has 2 mechanism 
+			=> like an alert to display the content for a user
+		- It reads the data vlaue from user by default it stores "string" data type
+
+	Output Formatting:
+	==================
+		- To display output it has 3 ways they are
+			=> ,
+			=> %
+			=> .format
+
+	Conditional Statements:
+	=======================
+		- To check whether a given condition is either True or False
+		- if => single case
+		- if-else => two cases
+		- nested if => three or more cases
+		- elif => three or more n number of cases
+
+	If:
+	===
+		Syntax:
+		=======
+			if condition:
+				//stmnts
+			
+		() => optional
+
+	If-else:
+	========
+		Syntax:
+		=======
+			if condition:
+				//stmnts-1
+			else:
+				//stmnts-2
+
+	Nested if:
+	==========
+		Syntax:
+		=======
+			if condition-1:
+				if condition-2:
+					//stmnt-1
+				else:
+					//stmnt-2
+			else:
+				//stmnt-3
+		Here else in inner of if or else outer of if is optional case based on requirement we can use else
+
+	Elif:
+	=====
+		Syntax:
+		=======
+			if condition-1:
+				//smtnt-1
+			elif condition-2:
+				//stmnt-2
+			elif condition-n:
+				//stmnt-n
+				|       |
+			else:
+				//condition(n-1)	
