@@ -5,4 +5,10 @@ For civil 2nd years python
   - Python Download,Installation 
   - Ways to execute python program
   - Jupyter Notebook Installation and execution
-  - Markdown format sampel exampels on it
+  - Markdown format sample examples on it
+
+## Day-02(01-02-2022):
+  - Variable,Operators
+  - Data types
+  - Input and Output formatting
+  - Conditional statements with sample examples on each
