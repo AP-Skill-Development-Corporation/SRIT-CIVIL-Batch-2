@@ -1,0 +1,28 @@
+Task:
+=====
+	Concepts:
+	=========
+		- Inner Loops
+		- Jumping statements
+		- Data Structures like[list,tuple,set,dictionary,string]
+		- Functions and its types
+		- Function arguments and its types
+
+Task-1:
+=======
+	Use While Loop
+	Input-1:
+    	3425678934
+	Output-1:
+	    Even numbers of left half are: 4 2 6
+	    Even numbers of right half are: 4 8
+	    Odd numbers of left half are: 3 5
+	    Odd numbers of right half are: 3 9 7
+
+	Input-2:
+    	765645342
+	Output-2:
+	    Even numbers of left half are: 6 6 4
+	    Even numbers of right half are: 2 4
+	    Odd numbers of left half are: 7 5
+	    Odd numbers of right half are: 3 5
