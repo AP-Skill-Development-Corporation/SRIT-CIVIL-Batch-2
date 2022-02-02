@@ -12,3 +12,6 @@ For civil 2nd years python
   - Data types
   - Input and Output formatting
   - Conditional statements with sample examples on each
+
+## Day-03(02-02-2022):
+  - Control statements with sample examples on each
