@@ -1,0 +1,28 @@
+Task:
+=====
+	- Concepts:
+	===========
+		- Keyword arguments
+		- Variable-Length arguments
+		- All Data Structures with methods useage[List,Tuple,Set,Dictionary and String]
+
+	Task-1:
+	=======
+	Input-1:
+	-------
+		3456789
+	Output-1:
+	--------
+		Left Half numbers are: 3 4 5
+		Reverse of Right Half with a number is: 3456987
+		Reverse of Left Half with a number is: 5436789
+
+	Input-2:
+	-------
+		789854
+	Output-2:
+	---------
+		Left Half numbers are: 7 8 9
+		Reverse of Right Half with a number is: 789458
+		Reverse of Left Half with a number is: 987854
+

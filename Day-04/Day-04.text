@@ -1,0 +1,90 @@
+Day-04[03-02-2022]:
+==================
+	Good Morning to All...
+
+	> cmd
+	> python -V
+
+	https://python.org
+		> downloads
+			> windows
+			> two columns
+			> stable release
+			> cntrl + f 
+			> python 3.7.5
+		> Download python x86-64 executeable installer
+
+	> software double tap
+		install now
+		custom installation
+		- user
+		- add python path [we need to select]
+	> install now
+		
+	> cmd
+	> pip -V	
+
+	> python -m pip install --upgrade pip
+	> pip install jupyter notebook
+	> jupyter notebook
+
+	Jumping Statements:
+	===================
+		- break => It exists from loop
+		- continue => It skips a value from loop
+		- pass => It skips a value and it is used for future enhancements
+		- return => It return single or multiple values based on data structures like list,tuple,set,string and dictionary
+
+	Inner Loops:
+	============
+		- Loop within a loop
+		- Outer of loop defines the row
+		- Inner Loop defines the column
+
+	Functions:
+	==========
+		- To perform a specific task
+
+	> 2 types they are:
+		- predefined[builtin] => fixed work
+		- user defined => user defined work has to bee assigned for it
+	> User Defined Functions:
+	=========================
+		- with return type and with arguments
+		- with return type and without arguments
+		- without return type and with arguments
+		- without return type and without arguments
+	> with return type and with arguments:
+	======================================
+		- Reading => from main
+		- printing => from main
+		- Logic => Function
+	> with return type and without arguments:
+	======================================
+		- Reading => In function
+		- printing => from main
+		- Logic => Function
+	> without return type and with arguments:
+	======================================
+		- Reading => from main
+		- printing => In function
+		- Logic => Function	
+	> without return type and without arguments:
+	======================================
+		- Reading => In function
+		- printing => In function
+		- Logic => Function
+
+	Function arguments:
+	===================
+		- Default arguments
+		- Required or positional arguments
+		- Keyword arguments
+		- Variable-Length arguments
+	> Default arguments:
+	====================
+		- In this if a value is not passed for function then the last parameter of a value should be fixed with some value then it is default argument
+	> Required arguments:
+	=====================
+		- In this argument if we are creating a function with 2 parameters then we are passing single value then it will displays the error
+		- Because we need to pass the each parameter with a value
