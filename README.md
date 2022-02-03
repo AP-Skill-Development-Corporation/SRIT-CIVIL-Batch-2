@@ -15,3 +15,9 @@ For civil 2nd years python
 
 ## Day-03(02-02-2022):
   - Control statements with sample examples on each
+
+## Day-04(03-02-2022):
+  - Inner Loop concepts
+  - Practice some Hackerrank Problems
+  - Functions and its types
+  - Function arguments(default,required)
