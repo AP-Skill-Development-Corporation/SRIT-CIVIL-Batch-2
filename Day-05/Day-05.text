@@ -1,0 +1,21 @@
+Day-05[04-02-2022]:
+===================
+	Good Morning to All...
+
+	> Keyword arguments:
+	====================
+		- In this we need to send the data by key and value
+		- If we define "**" then it stores the dictionary data type
+		- Here we can send the key for function in unorder formats
+
+	> Variable Length arguments:
+	============================
+		- If we pass single value it stores it in single variable
+		- If we pass 2 parameters in function with "*" for second parameter then at pass of function for first value it stores first value and for all remaining it stores in tuple data structure
+		- If we pass 3 parameters in function the first value stores single value and second it stores tuple format if we send with keywprds then it stores it in dictionary data structure
+
+	Strings:
+	========
+		- Enclosed with ' or "" with any data type like int and float
+		- It cant changes the value but it displays the value is changed but we can reassign the changes for same variable then it is changed but the string wont change it can changes the id in backend
+	 
