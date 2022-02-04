@@ -21,3 +21,9 @@ For civil 2nd years python
   - Practice some Hackerrank Problems
   - Functions and its types
   - Function arguments(default,required)
+
+## Day-05(04-02-2022):
+  - Function argumnets(keyword,variable length)
+  - Function types
+  - Strings
+  - Revised all topics upto conditional statements
