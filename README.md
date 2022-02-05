@@ -27,3 +27,8 @@ For civil 2nd years python
   - Function types
   - Strings
   - Revised all topics upto conditional statements
+
+## Day-06(05-02-2022):
+  - String methods
+  - List,tuple,set and dictionary methods with sample examples on it
+  - Conducted Exam
