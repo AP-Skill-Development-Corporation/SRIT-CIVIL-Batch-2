@@ -1,0 +1,58 @@
+Day-06[05-02-2022]:
+===================
+	Good Morning to All..
+
+	Data Structures in Python:
+	==========================
+		- List
+		- Tuple
+		- Set
+		- Dictionary
+
+	List:
+	=====
+		- It can be represented as "[]"
+		- It stores ordered format of data
+		- It allows duplicate elements
+		- It can changes the data elements
+		- Slicing can be done because of index
+		- It can be typecasted as "list()"
+
+	Tuple:
+	======
+		- It can be represented as "()"
+		- It stores ordered format of data
+		- It allows duplicate elements
+		- It can't changes the data elements
+		- Slicing can be done because of index
+		- It can be typecasted as "tuple()"
+
+	Set:
+	====
+		- It can be represented as "{}"
+		- It stores ordered format of data while accessing it from kernel if we use print then the data can be displayed in unordered format
+		- It can't allows duplicate elements
+		- It can changes the data elements but not in ordered way
+		- Slicing can't be done because index isnot present
+		- It can be typecasted as "set()"
+
+	Dictionary:
+	===========
+		- It can be represented as "{}" but nothing inside of {} then default it acts as dictionary
+		- It stores ordered format of data
+		- It allows duplicate elements for values but not for a key
+		- It can changes the values but not the keys
+		- Slicing can be done for values
+		- It can be typecasted as "dict()"
+
+
+	Sites to learn more concepts for further:
+	========================================
+		- programiz.com
+		- beginnersbook.com
+		- tutorialspoint.com
+		- javatpoint.com
+		- geeksforgeeks
+		- codeforwin
+		- sanfoundry.com
+		
